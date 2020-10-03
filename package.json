@@ -20,5 +20,17 @@
     "node-sass": "^4.14.1",
     "sass-loader": "^10.0.2",
     "sass-resources-loader": "^2.1.0"
-  }
+  },
+  "version": "1.0.0",
+  "main": "nuxt.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminsimier/app-monapplication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminsimier/app-monapplication/issues"
+  },
+  "homepage": "https://github.com/benjaminsimier/app-monapplication#readme"
 }

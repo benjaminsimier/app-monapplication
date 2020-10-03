@@ -2,120 +2,103 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/about.vue",
-    "chunkName": "pages/about",
-    "_name": "_80c5902c"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/about.vue",
+    "chunkName": "pages/about"
   },
   {
     "name": "activities",
     "path": "/activities",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/activities.vue",
-    "chunkName": "pages/activities",
-    "_name": "_6256ba40"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/activities.vue",
+    "chunkName": "pages/activities"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/contact.vue",
-    "chunkName": "pages/contact",
-    "_name": "_4fabb9bd"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/contact.vue",
+    "chunkName": "pages/contact"
   },
   {
     "name": "places",
     "path": "/places",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/index.vue",
-    "chunkName": "pages/places/index",
-    "_name": "_58e52efc"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/index.vue",
+    "chunkName": "pages/places/index"
   },
   {
     "name": "places-africa",
     "path": "/places/africa",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/africa/index.vue",
-    "chunkName": "pages/places/africa/index",
-    "_name": "_4f779ffd"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/africa/index.vue",
+    "chunkName": "pages/places/africa/index"
   },
   {
     "name": "places-america",
     "path": "/places/america",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/america/index.vue",
-    "chunkName": "pages/places/america/index",
-    "_name": "_65b339c1"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/america/index.vue",
+    "chunkName": "pages/places/america/index"
   },
   {
     "name": "places-asia",
     "path": "/places/asia",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/asia/index.vue",
-    "chunkName": "pages/places/asia/index",
-    "_name": "_33badf66"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/asia/index.vue",
+    "chunkName": "pages/places/asia/index"
   },
   {
     "name": "places-europe",
     "path": "/places/europe",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/europe/index.vue",
-    "chunkName": "pages/places/europe/index",
-    "_name": "_6844a925"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/europe/index.vue",
+    "chunkName": "pages/places/europe/index"
   },
   {
     "name": "places-oceania",
     "path": "/places/oceania",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/oceania/index.vue",
-    "chunkName": "pages/places/oceania/index",
-    "_name": "_536d5f6e"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/oceania/index.vue",
+    "chunkName": "pages/places/oceania/index"
   },
   {
     "name": "places-africa-thailand",
     "path": "/places/africa/thailand",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/africa/thailand.vue",
-    "chunkName": "pages/places/africa/thailand",
-    "_name": "_cbff03a8"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/africa/thailand.vue",
+    "chunkName": "pages/places/africa/thailand"
   },
   {
     "name": "places-america-thailand",
     "path": "/places/america/thailand",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/america/thailand.vue",
-    "chunkName": "pages/places/america/thailand",
-    "_name": "_48694430"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/america/thailand.vue",
+    "chunkName": "pages/places/america/thailand"
   },
   {
     "name": "places-asia-thailand",
     "path": "/places/asia/thailand",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/asia/thailand.vue",
-    "chunkName": "pages/places/asia/thailand",
-    "_name": "_0f582848"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/asia/thailand.vue",
+    "chunkName": "pages/places/asia/thailand"
   },
   {
     "name": "places-europe-thailand",
     "path": "/places/europe/thailand",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/europe/thailand.vue",
-    "chunkName": "pages/places/europe/thailand",
-    "_name": "_9385f7f8"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/europe/thailand.vue",
+    "chunkName": "pages/places/europe/thailand"
   },
   {
     "name": "places-oceania-thailand",
     "path": "/places/oceania/thailand",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/oceania/thailand.vue",
-    "chunkName": "pages/places/oceania/thailand",
-    "_name": "_b4994b40"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/oceania/thailand.vue",
+    "chunkName": "pages/places/oceania/thailand"
   },
   {
     "name": "places-oceania-id",
     "path": "/places/oceania/:id",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/oceania/_id.vue",
-    "chunkName": "pages/places/oceania/_id",
-    "_name": "_3750d0f1"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/oceania/_id.vue",
+    "chunkName": "pages/places/oceania/_id"
   },
   {
     "name": "places-oceania-slug",
     "path": "/places/oceania/:slug",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/places/oceania/_slug.vue",
-    "chunkName": "pages/places/oceania/_slug",
-    "_name": "_56daa1fe"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/places/oceania/_slug.vue",
+    "chunkName": "pages/places/oceania/_slug"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/benjaminsimier/htdocs/projets/nuxtjs/projet/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_4155daa2"
+    "component": "/Users/benjaminsimier/htdocs/projets/essai_git/app-monapplication/pages/index.vue",
+    "chunkName": "pages/index"
   }
 ]
