@@ -1,0 +1,24 @@
+{
+  "name": "projet",
+  "description": "Hello",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxt/http": "^0.5.12",
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/html-minifier": "^0.1.2",
+    "html-minifier": "^4.0.0",
+    "nuxt": "^2.14.4",
+    "nuxt-sass-resources-loader": "^2.0.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.2",
+    "sass-resources-loader": "^2.1.0"
+  }
+}

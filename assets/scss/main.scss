@@ -1,0 +1,44 @@
+body {
+    background-color: $background;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+}
+
+.page {
+    &-home {
+        &--header {
+            height: 450px;
+            background-image: url('~assets/images/home/home-header@2x.jpg');
+            background-size: cover;
+        }
+    }
+}
+
+
+
+
+
+  
+
+  .page-enter-active, .page-leave-active {
+    transition: opacity .2s
+  }
+  .page-enter, .page-leave-active {
+    opacity: 0
+  }
+
+
+// BOOTSTRAP
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    transition: .2s;
+}
+
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1250px;
+    }
+}
+
+.btn {
+    border-radius: 25px;
+}
